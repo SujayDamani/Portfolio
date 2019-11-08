@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.61c4bdd2.chunk.css",
+    "main.css": "./static/css/main.ce56e0ea.chunk.css",
     "main.js": "./static/js/main.f6c92d67.chunk.js",
     "main.js.map": "./static/js/main.f6c92d67.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.e542653f.js",
@@ -9,10 +9,10 @@
     "static/js/2.556bf47c.chunk.js": "./static/js/2.556bf47c.chunk.js",
     "static/js/2.556bf47c.chunk.js.map": "./static/js/2.556bf47c.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.0bb649967d316adbd51123b6d292724d.js": "./precache-manifest.0bb649967d316adbd51123b6d292724d.js",
+    "precache-manifest.f46ffb150388872edf5de881ba029160.js": "./precache-manifest.f46ffb150388872edf5de881ba029160.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.f8801741.chunk.css.map": "./static/css/2.f8801741.chunk.css.map",
-    "static/css/main.61c4bdd2.chunk.css.map": "./static/css/main.61c4bdd2.chunk.css.map",
+    "static/css/main.ce56e0ea.chunk.css.map": "./static/css/main.ce56e0ea.chunk.css.map",
     "static/media/Sujay-Resume.pdf": "./static/media/Sujay-Resume.5893b23d.pdf",
     "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/myAvatar.png": "./static/media/myAvatar.69a339d4.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.e542653f.js",
     "static/css/2.f8801741.chunk.css",
     "static/js/2.556bf47c.chunk.js",
-    "static/css/main.61c4bdd2.chunk.css",
+    "static/css/main.ce56e0ea.chunk.css",
     "static/js/main.f6c92d67.chunk.js"
   ]
 }
